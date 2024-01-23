@@ -20,7 +20,7 @@ const Span = styled.span`
 `
 
 
-export const Course = () => {
+export const BodyCourse = () => {
   return (
     <MenuList>
       <div>

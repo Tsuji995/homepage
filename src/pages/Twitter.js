@@ -10,7 +10,7 @@ export const Twitter = () => {
             screenName: "korikizokuz"
         }}
         options={{
-            height: "300"
+            height: "330"
         }}
     />
   )
